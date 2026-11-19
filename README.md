@@ -14,9 +14,9 @@
 | | |
 |---|---|
 | ![menu](Screenshots/screenshot1.jpg) | ![game](Screenshots/screenshot2.jpg) |
-| *menu* | *igra* |
+| *menu* | *y kafe* |
 | ![diner](Screenshots/screenshot3.jpg) | |
-| *kafe* | |
+| *killer* | |
 
 ## ⌨️ Управление
 
